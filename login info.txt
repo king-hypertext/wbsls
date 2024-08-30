@@ -1,0 +1,9 @@
+Admin login credentuals
+
+Username: Adansie
+Password: Adansie@1
+
+User login credentials
+
+Username:  group3
+Password:  group3
